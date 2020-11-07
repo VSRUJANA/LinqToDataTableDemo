@@ -42,17 +42,3 @@ namespace LINQ_Demo
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
